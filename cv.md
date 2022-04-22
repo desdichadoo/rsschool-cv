@@ -2,7 +2,7 @@
 <h1>Alexander Smoev</h1>
 ###### Navigation
 <ul>
-  <li><a href=/"#contactinfo">Contact info</a></li>
+  <li><a href=/"#Contact-info">Contact info</a></li>
   <li>[Summary]</li>
   <li>[Skills]</li>
   <li>[Code Examples]</li>
@@ -10,7 +10,7 @@
   <li>[Education]</li>
   <li>[English]</li>
 </ul>
-<h2>Contact info</h2>(#contactinfo)
+<h2>Contact info</h2>
 <ul>
   <li>Facebook: https://www.facebook.com/alexander.smoev/</li>
   <li>github: https://gist.github.com/desdichadoo</li>
