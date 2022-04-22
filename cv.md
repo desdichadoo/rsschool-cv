@@ -5,6 +5,8 @@
 [Summary](#summary)
 [Skills](#skills)
 [Code Examples](#codex)
+[Experience](#exp)
+[Education](#education)
 [English](#english)
 <h2>Contact info</h2>(#contactinfo)
 <ul>
@@ -207,9 +209,9 @@ function movePaddle1(e){
     paddle1.setPosition(paddleX, getHeight() - 20);
 }
 ```
-<h2>Experience</h2>
+<h2>Experience</h2>(#exp)
 I have a little experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming.
-<h2>Education</h2>
+<h2>Education</h2>(#education)
 I'm studying in FreeUni on ESM, but also am interested in coding.
 <h2>English</h2>(#english)
 English level of C1. I've studied business English in university and can speak it fluently.
