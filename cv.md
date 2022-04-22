@@ -3,7 +3,7 @@
 ###### Navigation
 [Contact info](#contactinfo)
 [English](#english)
-<h2>Contact info</h2>(#contactinfo)
+### Contact info
 <ul>
   <li>Facebook: https://www.facebook.com/alexander.smoev/</li>
   <li>github: https://gist.github.com/desdichadoo</li>
@@ -208,5 +208,5 @@ function movePaddle1(e){
 I have a little experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming.
 <h2>Education</h2>
 I'm studying in FreeUni on ESM, but also am interested in coding.
-<h2>English</h2>(#english)
+<h2>English</h2>
 English level of C1. I've studied business English in university and can speak it fluently.
