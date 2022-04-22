@@ -2,12 +2,12 @@
 <h1>Alexander Smoev</h1>
 ###### Navigation
 <nav>
-  <a href="#contact-info">Contact info</a>
-  <a href="#summary">Summary</a>
-  <a href="#skills">Skills</a>
-  <a href="#code-examples">Code Examples</a>
-  <a href="#experience">Experience</a>
-  <a href="#education">Education</a>
+  <a href="#contact-info">Contact info</a> |
+  <a href="#summary">Summary</a> |
+  <a href="#skills">Skills</a> |
+  <a href="#code-examples">Code Examples</a> |
+  <a href="#experience">Experience</a> |
+  <a href="#education">Education</a> |
   <a href="#english">English</a>
 </nav>
 
