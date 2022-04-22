@@ -2,7 +2,7 @@
 <h1>Alexander Smoev</h1>
 ###### Navigation
 <nav>
-  <a id="contact-info></a>
+  <a id="contact-info>Contact info</a>
   <a href=/"#Summary">Summary</a>
   <a href=/"#Skills">Skills</a>
   </nav>
