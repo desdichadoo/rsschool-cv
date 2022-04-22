@@ -10,7 +10,7 @@
  [Experience]
   [Education]
   [English]
-<h2> id = "contact-info">
+<h2 id = "contact-info">
   Contact info
 </h2>
 <ul>
