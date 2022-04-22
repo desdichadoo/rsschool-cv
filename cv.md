@@ -4,8 +4,8 @@
 [Contact info](#contactinfo)
 [Summary](#summary)
 [Skills](#skills)
-[Code Examples](#codex)
-[Experience](#exp)
+[Code Examples](#codexamples)
+[Experience](#experience)
 [Education](#education)
 [English](#english)
 <h2>Contact info</h2>(#contactinfo)
@@ -22,7 +22,7 @@ From skills, I can proudly say I've finished Bitcamp's first stage, so I know ja
   <li>HTML</li>
   <li>Hard-working</li>
 </ul>
-<h2>Code Examples</h2>(#codex)
+<h2>Code Examples</h2>(#codexamples)
 <h3>This is code from one of the latest Bitcamp tests on mouse move events - when moving mouse there should be appearing rectangles of certain size (1/4 of the width of screen and 1/10 of height of the screen) and the rectangles should blink on mouse movement if the position of mouse is on one particular rectangle:</h3>
 
 ```js 
@@ -209,7 +209,7 @@ function movePaddle1(e){
     paddle1.setPosition(paddleX, getHeight() - 20);
 }
 ```
-<h2>Experience</h2>(#exp)
+<h2>Experience</h2>(#experience)
 I have a little experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming.
 <h2>Education</h2>(#education)
 I'm studying in FreeUni on ESM, but also am interested in coding.
