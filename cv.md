@@ -2,13 +2,12 @@
 <h1>Alexander Smoev</h1>
 ###### Navigation
   [Contact info](#contact-info)
-  <a id="summary">Summary</a>
-  <a id="skills">Skills</a>
-  <a id="code-examples">Code Examples</a>
-  [Code Examples]
- [Experience]
-  [Education]
-  [English]
+  [Summary](#summary)
+  [Skills](#skills)
+  [Code Examples](#code-examples)
+  [Experience](#experience)
+  [Education](#education)
+  [English](#english)
 <h2 id = "contact-info">Contact info</h2>
 <ul>
   <li>Facebook: https://www.facebook.com/alexander.smoev/</li>
