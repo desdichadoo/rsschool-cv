@@ -1,7 +1,7 @@
 <header>CV</header>
 <h1>Alexander Smoev</h1>
 ###### Navigation
-  <a id="contact-info">Contact info</a>
+  [Contact info](#contact-info)
   <a id="summary">Summary</a>
   <a id="skills">Skills</a>
   <a id="code-examples">Code Examples</a>
