@@ -2,7 +2,7 @@
 <h1>Alexander Smoev</h1>
 ###### Navigation
 <ul>
-  <li>[Contact info](#contactinfo)</li>
+  <li><a href=/"#contactinfo">Contact info</a></li>
   <li>[Summary]</li>
   <li>[Skills]</li>
   <li>[Code Examples]</li>
