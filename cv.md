@@ -198,3 +198,5 @@ function movePaddle1(e){
 ```
 <h2>Experience</h2>
 I have a little experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming.
+<h2>Education</h2>
+I'm studying in FreeUni on ESM, but also am interested in coding.
