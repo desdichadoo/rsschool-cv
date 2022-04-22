@@ -2,12 +2,13 @@
 <h1>Alexander Smoev</h1>
 ###### Navigation
 <div><a href="#contact-info">Contact info</a></div>
-<a href="#summary">Summary</a>
-<a href="#skills">Skills</a>
-[Code Examples](#code-examples)
-[Experience](#experience)
-[Education](#education)
-[English](#english)
+<div><a href="#summary">Summary</a></div>
+<div><a href="#skills">Skills</a></div>
+<div><a href="#code-examples">Code Examples</a></div>
+<div><a href="#experience">Experience</a></div>
+<div><a href="#education">Education</a></div>
+<div><a href="#english">English</a></div>
+
 <h2 id = "contact-info">Contact info</h2>
 <ul>
   <li>Facebook: https://www.facebook.com/alexander.smoev/</li>
