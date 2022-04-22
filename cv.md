@@ -1,11 +1,7 @@
 <header>CV</header>
 <h1>Alexander Smoev</h1>
 ###### Navigation
-<nav>
-  <ul>
-    <li>[Contact info](#)</li>
-  </ul>
-</nav>
+[Contact info](#contactinfo)
 <h2>Contact info</h2>
 <ul>
   <li>Facebook: https://www.facebook.com/alexander.smoev/</li>
