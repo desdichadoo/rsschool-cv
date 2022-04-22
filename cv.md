@@ -1,9 +1,9 @@
 <header>CV</header>
 <h1>Alexander Smoev</h1>
 ###### Navigation
-<a href="#contact-info">Contact info</a>
-[Summary](#summary)
-[Skills](#skills)
+<div><a href="#contact-info">Contact info</a></div>
+<a href="#summary">Summary</a>
+<a href="#skills">Skills</a>
 [Code Examples](#code-examples)
 [Experience](#experience)
 [Education](#education)
