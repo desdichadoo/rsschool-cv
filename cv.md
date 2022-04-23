@@ -12,7 +12,8 @@
     <li><a href="#english">English</a></li>
   </ul>
 </nav>
-
+  
+  <main>
   <h2 id = "contact-info">Contact info</h2>
   <ul>
   <li><a href="https://www.facebook.com/alexander.smoev/">Facebook</a></li>
@@ -224,6 +225,7 @@ I have experience in Bitcamp, I've finished first stage. Also, I finished a cour
 I'm studying ESM at FreeUni, but also am interested in coding.
   <h2 id = "english">English</h2>
 English level of C1. I've studied business English in university and can speak it fluently.
+  </main>
 
 <footer> 
   <p><a href="https://gist.github.com/desdichadoo">My GitHub Profile</a></p>
