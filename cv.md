@@ -3,7 +3,7 @@
 ###### Navigation
 <nav>
   <ul>
-    [Contact info](#contact-info) |
+    <li><a href="#contact-info">Contact info</a></li>
     <li><a href="#summary">Summary</a></li>
     <li><a href="#skills">Skills</a></li>
     <li><a href="#code-examples">Code Examples</a></li>
