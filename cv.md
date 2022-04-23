@@ -231,7 +231,7 @@ I'm studying ESM at FreeUni, but also am interested in coding.
     <li>Georgian</li>
     <li>Russian</li>
   </ul>
-  <h3 id = "english">##English</h3>
+  <h3 id = "english">   English</h3>
 English level of C1. I've studied business English in university and can speak it fluently.
   <br>
   <br>
