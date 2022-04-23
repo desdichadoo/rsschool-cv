@@ -35,7 +35,6 @@ From skills, I can proudly say I've finished Bitcamp's first stage, so I know ja
   </ul>
   <h2 id = "code-examples">Code Examples &#128187;</h2>
   <b>It's one of the final tasks on Bitcamp:</b><i> You should divide the canvas into an imaginary grid with NUM_RECTANGLES_ACROSS rectangles across, and NUM_RECTANGLES_DOWN rectangles down. Each time the user moves the mouse, a rectangle aligned with this grid should be drawn so that the mouse’s location is within the rectangle. The rectangle should change color each time the mouse passes over it.
-
 This requires using the mouseMoveMethod as well as writing a function:</i>
 
 ```js 
