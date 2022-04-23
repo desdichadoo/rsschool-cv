@@ -220,4 +220,7 @@ I'm studying in FreeUni on ESM, but also am interested in coding.
   <h2 id = "english">English</h2>
 English level of C1. I've studied business English in university and can speak it fluently.
 
-<footer> <a href="https://gist.github.com/desdichadoo">github</a></footer>
+<footer> 
+  <a href="https://gist.github.com/desdichadoo">github</a> 23 April 2022
+![Course](https://rs.school/index.html)
+</footer>
