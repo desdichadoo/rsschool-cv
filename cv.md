@@ -10,6 +10,7 @@
     <li><a href="#experience">Experience</a></li>
     <li><a href="#education">Education</a></li>
     <li><a href="#english">English</a></li>
+  </ul>
 </nav>
 
 <h2 id = "contact-info">Contact info</h2>
