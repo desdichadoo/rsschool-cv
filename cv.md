@@ -21,12 +21,13 @@
   <h2 id = "summary">Summary</h2>
 For now, my goal is to learn programming because I really liked it while studying Bitcamp so I tried to give it a shot. If you ask more specific evaluation of the goal, I don't know what it will be - front-end, back-end or middle-end (high IQ joke especially for you dear reader), but we'll soon get to the answer.
   <h2 id = "skills">Skills</h2>
-From skills, I can proudly say I've finished Bitcamp's first stage, so I know javascript a little bit. Also, I studied HTML and also kinda know it. That's it, I'm a guy that kinda knows some stuff. Also I've got other skills, so to summarize:
+From skills, I can proudly say I've finished Bitcamp's first stage, so I know javascript a little bit. Also, I studied HTML & CSS as a part of university course, so I have basic knowledge about it too. Also I've got other skills, so to summarize:
   <ul>
     <li>Javascript</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>Hard-working</li>
+    <li>Creative</li>
   </ul>
   <h2 id = "code-examples">Code Examples</h2>
   <b>It's one of the final tasks on Bitcamp:</b><i> You should divide the canvas into an imaginary grid with NUM_RECTANGLES_ACROSS rectangles across, and NUM_RECTANGLES_DOWN rectangles down. Each time the user moves the mouse, a rectangle aligned with this grid should be drawn so that the mouse’s location is within the rectangle. The rectangle should change color each time the mouse passes over it.
