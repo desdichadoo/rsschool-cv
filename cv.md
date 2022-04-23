@@ -3,7 +3,7 @@
 ###### Navigation
 <nav>
   <ul>
-    <li><a href="#contact-info">Contact info</a></li>
+    [Contact info](#contact-info) |
     <li><a href="#summary">Summary</a></li>
     <li><a href="#skills">Skills</a></li>
     <li><a href="#code-examples">Code Examples</a></li>
@@ -18,7 +18,7 @@
   <li><a href="https://www.facebook.com/alexander.smoev/">Facebook</a></li>
   <li><a href="https://www.linkedin.com/in/alex-smoev-a51665188/">LinkedIn</a></li>
   </ul>
-  <main>
+
   <h2 id = "summary">Summary</h2>
 For now, my goal is to learn programming because I really liked it while studying Bitcamp so I tried to give it a shot. If you ask more specific evaluation of the goal, I don't know what it will be - front-end, back-end or middle-end (high IQ joke especially for you dear reader), but we'll soon get to the answer.
   <h2 id = "skills">Skills</h2>
@@ -225,7 +225,6 @@ I have experience in Bitcamp, I've finished first stage. Also, I finished a cour
 I'm studying ESM at FreeUni, but also am interested in coding.
   <h2 id = "english">English</h2>
 English level of C1. I've studied business English in university and can speak it fluently.
-  </main>
 
 <footer> 
   <p><a href="https://gist.github.com/desdichadoo">My GitHub Profile</a></p>
