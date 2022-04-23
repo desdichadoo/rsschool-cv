@@ -13,22 +13,23 @@
   </ul>
 </nav>
 
-<h2 id = "contact-info">Contact info</h2>
-<ul>
-  <li>Facebook: https://www.facebook.com/alexander.smoev/</li>
-  <li>github: https://gist.github.com/desdichadoo</li>
-</ul>
-<h2 id = "summary">Summary</h2>
+<main>
+  <h2 id = "contact-info">Contact info</h2>
+  <ul>
+    <li>Facebook: https://www.facebook.com/alexander.smoev/</li>
+    <li>github: https://gist.github.com/desdichadoo</li>
+  </ul>
+  <h2 id = "summary">Summary</h2>
 For now, my goal is to learn programming because I really liked it while studying Bitcamp so I tried to give it a shot. If you ask more specific evaluation of the goal, I don't know what it will be - front-end, back-end or middle-end (high IQ joke especially for you dear reader), but we'll soon get to the answer.
-<h2 id = "skills">Skills</h2>
+  <h2 id = "skills">Skills</h2>
 From skills, I can proudly say I've finished Bitcamp's first stage, so I know javascript a little bit. Also, I studied HTML and also kinda know it. That's it, I'm a guy that kinda knows some stuff. Also I've got other skills, so to summarize:
-<ul>
-  <li>Javascript</li>
-  <li>HTML</li>
-  <li>Hard-working</li>
-</ul>
-<h2 id = "code-examples">Code Examples</h2>
-<h3>This is code from one of the latest Bitcamp tests on mouse move events - when moving mouse there should be appearing rectangles of certain size (1/4 of the width of screen and 1/10 of height of the screen) and the rectangles should blink on mouse movement if the position of mouse is on one particular rectangle:</h3>
+  <ul>
+    <li>Javascript</li>
+    <li>HTML</li>
+    <li>Hard-working</li>
+  </ul>
+  <h2 id = "code-examples">Code Examples</h2>
+  <h3>This is code from one of the latest Bitcamp tests on mouse move events - when moving mouse there should be appearing rectangles of certain size (1/4 of the width of screen and 1/10 of height of the screen) and the rectangles should blink on mouse movement if the position of mouse is on one particular rectangle:</h3>
 
 ```js 
 var NUM_RECTANGLES_ACROSS = 4;
@@ -58,7 +59,7 @@ function putBlinkingRectangles(e){
     add(rect);
 }
 ```
-<h3>This is final project on Bitcamp and I chose to create a simple paddles game in which you'll never win and only lose (yeah, it's a long one...):</h3>
+  <h3>This is final project on Bitcamp and I chose to create a simple paddles game in which you'll never win and only lose (yeah, it's a long one...):</h3>
 
 ```js
 var ball;
@@ -214,9 +215,10 @@ function movePaddle1(e){
     paddle1.setPosition(paddleX, getHeight() - 20);
 }
 ```
-<h2 id = "experience">Experience</h2>
+  <h2 id = "experience">Experience</h2>
 I have a little experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming.
-<h2 id = "education">Education</h2>
+  <h2 id = "education">Education</h2>
 I'm studying in FreeUni on ESM, but also am interested in coding.
-<h2 id = "english">English</h2>
+  <h2 id = "english">English</h2>
 English level of C1. I've studied business English in university and can speak it fluently.
+</main>
