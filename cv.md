@@ -16,7 +16,7 @@
 <main>
   <h2 id = "contact-info">Contact info</h2>
   <ul>
-    <li>[Facebook](https://www.facebook.com/alexander.smoev/)</li>
+    <li><a href="https://www.facebook.com/alexander.smoev/">Facebook</a></li>
     <li>[github](https://gist.github.com/desdichadoo)</li>
   </ul>
   <h2 id = "summary">Summary</h2>
