@@ -13,7 +13,6 @@
   </ul>
 </nav>
 
-<main>
   <h2 id = "contact-info">Contact info</h2>
   <ul>
     <li><a href="https://www.facebook.com/alexander.smoev/">Facebook</a></li>
@@ -221,4 +220,3 @@ I have a little experience in Bitcamp, I've finished first stage. Also, I finish
 I'm studying in FreeUni on ESM, but also am interested in coding.
   <h2 id = "english">English</h2>
 English level of C1. I've studied business English in university and can speak it fluently.
-</main>
