@@ -25,6 +25,7 @@ From skills, I can proudly say I've finished Bitcamp's first stage, so I know ja
   <ul>
     <li>Javascript</li>
     <li>HTML</li>
+    <li>CSS</li>
     <li>Hard-working</li>
   </ul>
   <h2 id = "code-examples">Code Examples</h2>
