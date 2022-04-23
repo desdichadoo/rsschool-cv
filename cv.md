@@ -27,7 +27,9 @@ From skills, I can proudly say I've finished Bitcamp's first stage, so I know ja
     <li>Hard-working</li>
   </ul>
   <h2 id = "code-examples">Code Examples</h2>
-  <h3>This is code from one of the latest Bitcamp tests on mouse move events - when moving mouse there should be appearing rectangles of certain size (1/4 of the width of screen and 1/10 of height of the screen) and the rectangles should blink on mouse movement if the position of mouse is on one particular rectangle:</h3>
+  <i>You should divide the canvas into an imaginary grid with NUM_RECTANGLES_ACROSS rectangles across, and NUM_RECTANGLES_DOWN rectangles down. Each time the user moves the mouse, a rectangle aligned with this grid should be drawn so that the mouse’s location is within the rectangle. The rectangle should change color each time the mouse passes over it.
+
+This requires using the mouseMoveMethod as well as writing a function:</i>
 
 ```js 
 var NUM_RECTANGLES_ACROSS = 4;
@@ -57,7 +59,7 @@ function putBlinkingRectangles(e){
     add(rect);
 }
 ```
-  <h3>This is final project on Bitcamp and I chose to create a simple paddles game in which you'll never win and only lose (yeah, it's a long one...):</h3>
+  <i>This is final project on Bitcamp and I chose to create a simple paddle game in which you'll never win and only lose (yeah, it's a long one...):</i>
 
 ```js
 var ball;
