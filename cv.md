@@ -16,7 +16,6 @@
   <h2 id = "contact-info">Contact info</h2>
   <ul>
     <li><a href="https://www.facebook.com/alexander.smoev/">Facebook</a></li>
-    <li><a href="https://gist.github.com/desdichadoo">github</a></li>
   </ul>
   <h2 id = "summary">Summary</h2>
 For now, my goal is to learn programming because I really liked it while studying Bitcamp so I tried to give it a shot. If you ask more specific evaluation of the goal, I don't know what it will be - front-end, back-end or middle-end (high IQ joke especially for you dear reader), but we'll soon get to the answer.
@@ -220,3 +219,5 @@ I have a little experience in Bitcamp, I've finished first stage. Also, I finish
 I'm studying in FreeUni on ESM, but also am interested in coding.
   <h2 id = "english">English</h2>
 English level of C1. I've studied business English in university and can speak it fluently.
+
+<footer> <a href="https://gist.github.com/desdichadoo">github</a></footer>
