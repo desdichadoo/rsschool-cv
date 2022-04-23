@@ -15,7 +15,8 @@
 
   <h2 id = "contact-info">Contact info</h2>
   <ul>
-    <li><a href="https://www.facebook.com/alexander.smoev/">Facebook</a></li>
+  <li><a href="https://www.facebook.com/alexander.smoev/">Facebook</a></li>
+  <li><a href="https://www.linkedin.com/in/alex-smoev-a51665188/">LinkedIn</a></li>
   </ul>
   <h2 id = "summary">Summary</h2>
 For now, my goal is to learn programming because I really liked it while studying Bitcamp so I tried to give it a shot. If you ask more specific evaluation of the goal, I don't know what it will be - front-end, back-end or middle-end (high IQ joke especially for you dear reader), but we'll soon get to the answer.
