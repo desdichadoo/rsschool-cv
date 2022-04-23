@@ -15,7 +15,7 @@
   
   <h2 id = "contact-info">Contact info</h2>
   <ul>
-    <li>E-mail:asmoe20@freeuni.edu.ge</li>
+  <li><b>E-mail:</b> <i>asmoe20@freeuni.edu.ge</i></li>
     <li><a href="https://www.facebook.com/alexander.smoev/">Facebook</a></li>
     <li><a href="https://www.linkedin.com/in/alex-smoev-a51665188/">LinkedIn</a></li>
   </ul>
