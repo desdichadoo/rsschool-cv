@@ -225,7 +225,7 @@ function movePaddle1(e){
   <main>
   <h2 id = "experience">Experience &#128188;</h2>
 I have experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming.
-  <h2 id = "education">Education &#127891</h2>
+  <h2 id = "education">Education &#127891;</h2>
 I'm studying ESM at FreeUni, but also am interested in coding.
   <h2>Languages</h2>
   <ul>
