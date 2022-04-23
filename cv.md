@@ -224,7 +224,8 @@ I'm studying in FreeUni on ESM, but also am interested in coding.
 English level of C1. I've studied business English in university and can speak it fluently.
 
 <footer> 
-  <a href="https://gist.github.com/desdichadoo">github</a> 23 April 2022
+  <p><a href="https://gist.github.com/desdichadoo">github</a></p>
+  <p><i>23 April 2022</i></p>
   <p style="text-align center">
     <a href="https://rs.school/js-en"/><img border="0" alt="Javascript/Front-end Mentoring Program (in English)" src="https://rs.school/images/rs_school_js.svg" width="100" height="100"><a/>
   </p>
