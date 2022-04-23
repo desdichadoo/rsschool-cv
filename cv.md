@@ -1,7 +1,6 @@
 <header>CV</header>
 <h1>Alexander Smoev</h1>
 ###### Navigation
-[Contact info](#contact-info) |
 <nav>
   <ul>
     <li><a href="#contact-info">Contact info</a></li>
