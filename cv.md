@@ -3,13 +3,13 @@
 ###### Navigation
 <nav>
   <ul>
-    <li><a href="#contact-info">Contact info</a></li>
-    <li><a href="#summary">Summary</a></li>
-    <li><a href="#skills">Skills</a></li>
-    <li><a href="#code-examples">Code Examples</a></li>
-    <li><a href="#experience">Experience</a></li>
-    <li><a href="#education">Education</a></li>
-    <li><a href="#english">English</a></li>
+    <li><a href="#contact-info">Contact info &#128222;</a></li>
+    <li><a href="#summary">Summary &#128640;</a></li>
+    <li><a href="#skills">Skills &#127919;</a></li>
+    <li><a href="#code-examples">Code Examples &#128187;</a></li>
+    <li><a href="#experience">Experience &#128188;</a></li>
+    <li><a href="#education">Education &#127891;</a></li>
+    <li><a href="#english">English &#128227;</a></li>
   </ul>
 </nav>
   
@@ -22,7 +22,7 @@
 
   <h2 id = "summary">Summary &#128640;</h2>
 For now, my goal is to learn programming because I really liked it while studying Bitcamp so I tried to give it a shot. If you ask more specific evaluation of the goal, I don't know what it will be - front-end, back-end or middle-end (high IQ joke especially for you dear reader), but we'll soon get to the answer.
-  <h2 id = "skills">Skills</h2>
+  <h2 id = "skills">Skills &#127919;</h2>
 From skills, I can proudly say I've finished Bitcamp's first stage, so I know javascript a little bit. Also, I studied HTML & CSS as a part of university course, so I have basic knowledge about it too. Also I've got other skills, so to summarize (the stuff that's on fire is stuff I do the best):
   <ul>
     <li>Javascript &#128293;</li>
@@ -33,7 +33,7 @@ From skills, I can proudly say I've finished Bitcamp's first stage, so I know ja
     <li>Hard-working &#128293;</li>
     <li>Creative &#128293;</li>
   </ul>
-  <h2 id = "code-examples">Code Examples</h2>
+  <h2 id = "code-examples">Code Examples &#128187;</h2>
   <b>It's one of the final tasks on Bitcamp:</b><i> You should divide the canvas into an imaginary grid with NUM_RECTANGLES_ACROSS rectangles across, and NUM_RECTANGLES_DOWN rectangles down. Each time the user moves the mouse, a rectangle aligned with this grid should be drawn so that the mouse’s location is within the rectangle. The rectangle should change color each time the mouse passes over it.
 
 This requires using the mouseMoveMethod as well as writing a function:</i>
@@ -227,7 +227,7 @@ function movePaddle1(e){
 I have experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming.
   <h2 id = "education">Education &#127891;</h2>
 I'm studying ESM at FreeUni, but also am interested in coding.
-  <h2>Languages</h2>
+  <h2>Languages &#128227;</h2>
   <ul>
     <li>Georgian</li>
     <li>Russian</li>
