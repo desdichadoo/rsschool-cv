@@ -1,5 +1,5 @@
 <header>CV</header>
-<h1>Alexander Smoev</h1>
+<h1>Alexander Smoev &#128030;</h1>
 ###### Navigation
 <nav>
   <ul>
