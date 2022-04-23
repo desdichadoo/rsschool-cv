@@ -230,9 +230,9 @@ I'm studying ESM at FreeUni, but also am interested in coding.
   <ul>
     <li>Georgian</li>
     <li>Russian</li>
-  <h3 id = "english">English</h3>
-English level of C1. I've studied business English in university and can speak it fluently.
   </ul>
+  <h3 id = "english">##English</h3>
+English level of C1. I've studied business English in university and can speak it fluently.
   <br>
   <br>
   </main>
