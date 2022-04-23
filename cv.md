@@ -222,12 +222,21 @@ function movePaddle1(e){
     paddle1.setPosition(paddleX, getHeight() - 20);
 }
   ```
+  <main>
   <h2 id = "experience">Experience</h2>
 I have experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming.
   <h2 id = "education">Education</h2>
 I'm studying ESM at FreeUni, but also am interested in coding.
-  <h2 id = "english">English</h2>
+  <h2>Languages</h2>
+  <ul>
+    <li>Georgian</li>
+    <li>Russian</li>
+  <h3 id = "english">English</h3>
 English level of C1. I've studied business English in university and can speak it fluently.
+  </ul>
+  <br>
+  <br>
+  </main>
 
 <footer> 
   <p><a href="https://gist.github.com/desdichadoo">My GitHub Profile</a></p>
