@@ -65,7 +65,7 @@ function putBlinkingRectangles(e){
 ```
   <i>This is final project on Bitcamp and I chose to create a simple paddle game in which you'll never win and only lose (yeah, it's a long one...):</i>
 
-```js
+<p>```js
 var ball;
 var dx = 5;
 var dy = 5;
@@ -218,7 +218,7 @@ function movePaddle1(e){
     }
     paddle1.setPosition(paddleX, getHeight() - 20);
 }
-```
+  ```</p>
   <h2 id = "experience">Experience</h2>
 I have experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming.
   <h2 id = "education">Education</h2>
