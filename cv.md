@@ -13,14 +13,14 @@
   </ul>
 </nav>
   
-  <h2 id = "contact-info">Contact info</h2>
+  <h2 id = "contact-info">Contact info &#128222;</h2>
   <ul>
   <li><b>E-mail:</b> <i>asmoe20@freeuni.edu.ge</i></li>
     <li><a href="https://www.facebook.com/alexander.smoev/">Facebook</a></li>
     <li><a href="https://www.linkedin.com/in/alex-smoev-a51665188/">LinkedIn</a></li>
   </ul>
 
-  <h2 id = "summary">Summary</h2>
+  <h2 id = "summary">Summary &#128640;</h2>
 For now, my goal is to learn programming because I really liked it while studying Bitcamp so I tried to give it a shot. If you ask more specific evaluation of the goal, I don't know what it will be - front-end, back-end or middle-end (high IQ joke especially for you dear reader), but we'll soon get to the answer.
   <h2 id = "skills">Skills</h2>
 From skills, I can proudly say I've finished Bitcamp's first stage, so I know javascript a little bit. Also, I studied HTML & CSS as a part of university course, so I have basic knowledge about it too. Also I've got other skills, so to summarize (the stuff that's on fire is stuff I do the best):
@@ -223,9 +223,9 @@ function movePaddle1(e){
 }
   ```
   <main>
-  <h2 id = "experience">Experience</h2>
+  <h2 id = "experience">Experience &#128188;</h2>
 I have experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming.
-  <h2 id = "education">Education</h2>
+  <h2 id = "education">Education &#127891</h2>
 I'm studying ESM at FreeUni, but also am interested in coding.
   <h2>Languages</h2>
   <ul>
