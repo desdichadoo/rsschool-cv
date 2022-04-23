@@ -225,5 +225,5 @@ English level of C1. I've studied business English in university and can speak i
 
 <footer> 
   <a href="https://gist.github.com/desdichadoo">github</a> 23 April 2022
-![Course](https://rs.school/images/rs_school_js.svg)
+![Course](https://rs.school/js-en/)
 </footer>
