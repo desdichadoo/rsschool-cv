@@ -225,7 +225,7 @@ English level of C1. I've studied business English in university and can speak i
 
 <footer> 
   <a href="https://gist.github.com/desdichadoo">github</a> 23 April 2022
-  <p style="text-align center" width="100" height="100">
-    <a href="https://rs.school/js-en"/><img border="0" alt="Javascript/Front-end Mentoring Program (in English)" src="https://rs.school/images/rs_school_js.svg"><a/>
+  <p style="text-align center">
+    <a href="https://rs.school/js-en"/><img border="0" alt="Javascript/Front-end Mentoring Program (in English)" src="https://rs.school/images/rs_school_js.svg" width="100" height="100"><a/>
   </p>
 </footer>
