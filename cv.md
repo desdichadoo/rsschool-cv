@@ -15,8 +15,9 @@
   
   <h2 id = "contact-info">Contact info</h2>
   <ul>
-  <li><a href="https://www.facebook.com/alexander.smoev/">Facebook</a></li>
-  <li><a href="https://www.linkedin.com/in/alex-smoev-a51665188/">LinkedIn</a></li>
+    <li>E-mail:asmoe20@freeuni.edu.ge</li>
+    <li><a href="https://www.facebook.com/alexander.smoev/">Facebook</a></li>
+    <li><a href="https://www.linkedin.com/in/alex-smoev-a51665188/">LinkedIn</a></li>
   </ul>
 
   <h2 id = "summary">Summary</h2>
@@ -27,6 +28,8 @@ From skills, I can proudly say I've finished Bitcamp's first stage, so I know ja
     <li>Javascript</li>
     <li>HTML</li>
     <li>CSS</li>
+    <li>Adobe Photoshop</li>
+    <li>Adobe Illustrator</li>
     <li>Hard-working</li>
     <li>Creative</li>
   </ul>
