@@ -223,7 +223,10 @@ function movePaddle1(e){
   ```
   <main>
   <h2 id = "experience">Experience &#128188;</h2>
-I have experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming.
+I have experience in Bitcamp, I've finished first stage. Also, I finished a course in FreeUni on basics of programming. Other than that here is the project I've been working on:
+  <ul>
+    <li><a href="https://desdichadoo.github.io/rsschool-cv/cv"><i>My CV</i></a></li>
+  </ul>
   <h2 id = "education">Education &#127891;</h2>
 I'm studying ESM at FreeUni, but also am interested in coding.
   <h2>Languages &#128227;</h2>
